@@ -16,7 +16,7 @@
 
 # a = 'bangldesh'
 
-# b = 10
+b = 10
 
 # print(a + str(b))
 
